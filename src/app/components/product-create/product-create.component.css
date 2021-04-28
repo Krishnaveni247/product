@@ -1,0 +1,21 @@
+.invalid-feedback{
+    color: red;
+}
+.container1{
+    position:relative;
+}
+.createform{
+    padding-top: 36px;
+    margin-top: 36px;
+    position: absolute;
+    left:110%;
+}
+.form-group{
+    padding-left:20px;
+    padding-right:20px;
+    width:250px;
+}
+.register-product{
+    box-shadow: 0 5px 5px -3px rgb(0 0 0 / 20%), 0 8px 10px 1px rgb(0 0 0 / 14%), 0 3px 14px 2px rgb(0 0 0 / 12%);
+
+}

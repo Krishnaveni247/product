@@ -1,0 +1,7 @@
+.invalid-feedback{
+    color: red;
+}
+.btn-group-sm>.btn, .btn-sm {
+    padding: 1px 2px !important;
+  
+}
